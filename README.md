@@ -16,8 +16,8 @@
  
 
 ## 项目展示
-* ![ ](OPC-DA client 1.png)
-* ![ ](OPC-DA client 2.png)
+* ![ ](opc1.png)
+* ![ ](opc2.png)
 ## 关于作者
 * warren@伟
 * E-mail:warren_wzw@163.com
