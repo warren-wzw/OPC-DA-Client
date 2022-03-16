@@ -1,0 +1,12 @@
+ drop database if exists wzw;
+create database wzw;
+use wzw;
+create table opc
+(
+num int auto_increment  primary key,
+time char(30) ,
+ datas char(50)
+);
+ 
+ 
+select * from opc;
